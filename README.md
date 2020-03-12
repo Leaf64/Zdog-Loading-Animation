@@ -6,6 +6,6 @@ Short loading animation created in pseudo-3D engine Z-dog
 Website of enginge:
 https://zzz.dog/
 
-I highly recommend, can do aesthetic shiet.
+I highly recommend it, can do aesthetic shiet.
 
 
